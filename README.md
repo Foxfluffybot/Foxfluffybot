@@ -1,2 +1,2 @@
 # 🌼 | FoxFluffy 
-- **Olá, eu sou a FoxFluffy**
+- **👋 | Olá, eu sou a FoxFluffy**
