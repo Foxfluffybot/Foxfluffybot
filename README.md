@@ -1,3 +1,3 @@
 # 🌼 | FoxFluffy 
 - **👋 | Olá, eu sou a FoxFluffy**
-- **🌙 | Sou uma pequena aplicação, possuo várias funções**
+- **🌙 | Sou uma pequena aplicação do Discord**
